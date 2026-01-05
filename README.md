@@ -11,7 +11,7 @@
 ## Workshop Repos:
 Workshop repos contain a series of source files that have tasks within them for you to complete
 - Snake:
-  - Python Version: https://github.com/johnblat/SnakeHackersGuild
+  - Python Version: https://github.com/johnblat/Workshop_Snake_Python
   - C Version: https://github.com/johnblat/Workshop_Snake_C 
 - Pong:
   - Python Version: https://github.com/johnblat/Workshop_Pong_Python 
