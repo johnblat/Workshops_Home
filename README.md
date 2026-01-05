@@ -18,7 +18,7 @@ Workshop repos contain a series of source files that have tasks within them for 
   - C Version: https://github.com/johnblat/Workshop_Pong_C
  
 ## Finished Repositories not yet made into workshops:
-These repositories have finished games, but have not been converted to a workshop repo with broken down tasks:
+These repositories have finished games, but have not been converted to a workshop repo with broken down tasks. They are also written in Odin and will be re-written by me in C and Python:
 - Tic Tac Toe:
   - Odin: https://github.com/johnblat/TicTacToe_Odin
 - Breakout:
