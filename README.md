@@ -2,7 +2,7 @@
 
 ## Getting Started:
 - Install Python or a C compiler for your system:
-  -   C:
+  - C:
     - on Windows, I recommend using the MSVC compiler which you can install thru Visual Studio.
     - on Mac/Linux, you can install gcc or clang.
   -  Python:
