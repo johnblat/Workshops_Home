@@ -5,7 +5,7 @@
   - C:
     - on Windows, I recommend using the MSVC compiler which you can install thru Visual Studio.
     - on Mac/Linux, you can install gcc or clang.
-  -  Python:
+  - Python:
     - On Mac/Linux, python should already be installed by default, and might be able to be called on the command line with `python` or `python3`
     - For Windows, you will have to install python for your system    
 - Download and setup raylib for your system:
