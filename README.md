@@ -1,5 +1,16 @@
 # Workshops_Home
 
+## Workshop Repos:
+Workshop repos contain a series of source files that have tasks within them for you to complete
+- Snake:
+  - Python Version: https://github.com/johnblat/Workshop_Snake_Python
+  - C Version: https://github.com/johnblat/Workshop_Snake_C 
+- Pong:
+  - Python Version: https://github.com/johnblat/Workshop_Pong_Python 
+  - C Version: https://github.com/johnblat/Workshop_Pong_C
+- Breakout:
+  - C Version: https://github.com/johnblat/Workshop_Breakout_C
+  
 ## Getting Started:
 - Install Python or a C compiler for your system:
   - C:
@@ -13,16 +24,7 @@
     - ^ I've actually included the raylib libraries for Snake and Pong C repos so far so you don't have to download it yourself. 
   - For Python, follow the installation instructions here: https://pypi.org/project/raylib/
     
-## Workshop Repos:
-Workshop repos contain a series of source files that have tasks within them for you to complete
-- Snake:
-  - Python Version: https://github.com/johnblat/Workshop_Snake_Python
-  - C Version: https://github.com/johnblat/Workshop_Snake_C 
-- Pong:
-  - Python Version: https://github.com/johnblat/Workshop_Pong_Python 
-  - C Version: https://github.com/johnblat/Workshop_Pong_C
-- Breakout:
-  - C Version: https://github.com/johnblat/Workshop_Breakout_C
+
  
 ## TODO:
 - Convert finished repo into workshop:
