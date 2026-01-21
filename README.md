@@ -24,9 +24,9 @@ Workshop repos contain a series of source files that have tasks within them for 
 - Breakout:
   - C Version: https://github.com/johnblat/Workshop_Breakout_C
  
-## Finished Repositories not yet made into workshops:
-These repositories have finished games, but have not been converted to a workshop repo with broken down tasks. They are also written in Odin and will be re-written by me in C and Python:
-- Tic Tac Toe:
-  - Odin: https://github.com/johnblat/TicTacToe_Odin
-- Breakout:
-  - Odin: https://github.com/johnblat/Breakout_Odin  
+## TODO:
+- Convert finished repo into workshop:
+  - Tic Tac Toe:
+    - Odin Code: https://github.com/johnblat/TicTacToe_Odin
+- Add Python Workshop for the following (not sure, might just make this C only): 
+  - Breakout
