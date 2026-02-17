@@ -28,5 +28,5 @@ Workshop repos contain a series of source files that have tasks within them for 
 - Convert finished repo into workshop:
   - Tic Tac Toe:
     - Odin Code: https://github.com/johnblat/TicTacToe_Odin
-- Add Python Workshop for the following (not sure, might just make this C only): 
+- Add Python Workshop for the following: 
   - Breakout
